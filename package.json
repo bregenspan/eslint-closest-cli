@@ -1,6 +1,6 @@
 {
   "name": "eslint-closest-cli",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Finds the ESLint CLI closest to the current working directory and wraps it",
   "keywords": ["eslint", "nearest", "closest", "cli", "cwd"],
   "main": "index.js",
