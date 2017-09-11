@@ -20,10 +20,7 @@ PARENT_PROJECT
 
 ## Installation
 
-(Not published to NPM yet)
-
-`git clone git@github.com:bregenspan/eslint-closest-cli.git`
-`cd eslint-closest-cli && npm install -g`
+`npm install -g eslint-closest-cli`
 
 ## Usage
 
