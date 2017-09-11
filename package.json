@@ -1,0 +1,12 @@
+{
+  "name": "eslint-closest-cli",
+  "version": "0.0.1",
+  "description": "Finds the ESLint CLI closest to the current working directory and wraps it",
+  "main": "index.js",
+  "bin": "index.js", 
+  "author": "Ben Regenspan",
+  "license": "ISC",
+  "dependencies": {
+    "find-node-modules": "^1.0.4"
+  }
+}
