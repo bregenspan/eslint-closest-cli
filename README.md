@@ -18,6 +18,13 @@ PARENT_PROJECT
     package.json [package.json without "eslint"]
 ```
 
+## Installation
+
+(Not published to NPM yet)
+
+`git clone git@github.com:bregenspan/eslint-closest-cli.git`
+`cd eslint-closest-cli && npm install -g`
+
 ## Usage
 
 Pass along any options that you would ordinarily pass directly to `eslint`, e.g.:
