@@ -18,6 +18,9 @@ PARENT_PROJECT
     package.json [package.json without "eslint"]
 ```
 
+In such a case, tools that check for `$(npm-bin)/eslint` can't find the local ESLint CLI
+and end up falling back to a global install.
+
 ## Installation
 
 `npm install -g eslint-closest-cli`
