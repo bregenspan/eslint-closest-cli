@@ -1,5 +1,13 @@
-eslint-closest-cli
-==================
+eslint-closest-cli (DEPRECATED)
+====================
+
+# DEPRECATED (already!)
+
+I recommend just using [eslint-cli](https://github.com/mysticatea/eslint-cli), which
+updates the `eslint` command itself to match the most desirable behavior (calling
+local eslint if available)
+
+--------------------------
 
 Wrapper for ESLint CLI. Finds the closest copy of ESLint to the current working directory
 and executes it.
