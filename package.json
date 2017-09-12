@@ -1,17 +1,23 @@
 {
   "name": "eslint-closest-cli",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Finds the ESLint CLI closest to the current working directory and wraps it",
-  "keywords": ["eslint", "nearest", "closest", "cli", "cwd"],
+  "keywords": [
+    "eslint",
+    "nearest",
+    "closest",
+    "cli",
+    "cwd"
+  ],
   "main": "index.js",
-  "bin": "index.js", 
+  "bin": "index.js",
   "author": "Ben Regenspan",
   "license": "ISC",
   "repository": {
     "type": "git",
-    "url" : "https://github.com/bregenspan/eslint-closest-cli.git"
+    "url": "https://github.com/bregenspan/eslint-closest-cli.git"
   },
   "dependencies": {
-    "find-node-modules": "^1.0.4"
+    "findup-sync": "^2.0.0"
   }
 }
