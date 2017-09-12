@@ -32,8 +32,3 @@ Pass along any options that you would ordinarily pass directly to `eslint`, e.g.
 `eslint-closest-cli --help`
 
 `eslint-closest-cli *.js`
-
-## TODOs
-
- * Limit unecessary path traversal by using a generator-based version of
-    find-node-modules.
